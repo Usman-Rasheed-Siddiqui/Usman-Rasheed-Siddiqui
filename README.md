@@ -214,14 +214,6 @@ The repositories may include:
 > **📌 Note:** These resources are shared for **learning and reference purposes**. Use them to understand the concepts and develop your own solutions rather than simply copying the work.
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usman-Rasheed-Siddiqui&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Rasheed-Siddiqui&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
