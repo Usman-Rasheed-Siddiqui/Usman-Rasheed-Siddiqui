@@ -46,6 +46,16 @@ I enjoy turning ideas into working projects — from REST APIs and data-processi
 ![React](https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Basic-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### 🖥️ Computer Architecture & Digital Systems
+
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
+![MIPS](https://img.shields.io/badge/MIPS%20Assembly-333333?style=for-the-badge)
+![Digital Logic Design](https://img.shields.io/badge/Digital%20Logic%20Design-007ACC?style=for-the-badge)
+![Computer Organization](https://img.shields.io/badge/Computer%20Organization%20%26%20Design-6A1B9A?style=for-the-badge)
+![Logisim](https://img.shields.io/badge/Logisim-Digital%20Design-orange?style=for-the-badge)
+
+**Knowledge:** RISC-V Architecture · MIPS Assembly · Digital Logic Design · Computer Organization & Design · CPU Datapaths · Instruction Sets · Digital Circuit Design
+
 ### 🤖 AI & Data
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -87,6 +97,21 @@ A personal educational Formula 1 platform combining structured F1 data with an A
 
 ---
 
+### 🖥️ RISC-V Architecture & Custom CPU — Logisim
+
+Implemented a **RISC-V-based processor architecture in Logisim** as part of my Computer Organization & Design / Digital Logic Design work.
+
+**Work includes:**
+- 🧩 Implemented the core components of a RISC-V processor
+- 🔌 Designed and connected processor datapath components
+- 🧠 Worked with RISC-V instruction formats and execution
+- ⚙️ Built and tested the architecture using **Logisim**
+- 🛠️ Designed a **custom processor architecture** as an extension of the implementation
+- 🔬 Applied concepts from Digital Logic Design and Computer Organization & Design
+
+**Technologies:** RISC-V · Logisim · Digital Logic · Computer Architecture
+
+---
 
 ### 📜 Skills-Based Certificate Issuing System
 
