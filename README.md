@@ -4,7 +4,7 @@
 
 I'm a **Computer Systems Engineering student** interested in building practical software systems across **Backend Development, AI, Data, APIs, and Blockchain**.
 
-I enjoy turning ideas into working projects — from REST APIs and data-processing systems to AI-powered applications and blockchain-based solutions.
+I enjoy turning ideas into working projects — from REST APIs and data-processing systems to AI-powered applications, blockchain-based solutions and digital hardware/processor designs.
 
 ---
 
@@ -13,6 +13,7 @@ I enjoy turning ideas into working projects — from REST APIs and data-processi
 - 🎓 **Computer Systems Engineering** — NED University of Engineering & Technology
 - 💻 Interested in **Software Development, Backend Engineering & IT Systems**
 - 🤖 Exploring **Artificial Intelligence, LLMs & Data Processing**
+- 🖥️ Exploring the hardware and computer architecture world, including **Digital Logic Design, Computer Organization & Design, RISC-V and MIPS Assembly**
 - 🔗 Learning and building with **Blockchain & Smart Contracts**
 - 🌐 Building applications using **Django, REST APIs and modern web technologies**
 - 🧹 Interested in **Data Acquisition, Cleaning & Analysis**
