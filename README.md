@@ -19,36 +19,62 @@ Computer Systems Engineering student at **NED University of Engineering & Techno
 - Organizer, ZeroToShip | Summer Activity 2026
 - NED Iqbal Leadership Fellowship, 2026
 
+---
+
 ## Tech Stack
 
-**Languages:** Python · C · SQL · Solidity
+### Languages
 
-**Backend & APIs:** Django · Django REST Framework · REST APIs · PostgreSQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-**Frontend:** HTML5 · CSS3 · Bootstrap · React (basic) · TypeScript (basic)
+### Backend & APIs
 
-**AI & Data:** Pandas · NumPy · Machine Learning · LLMs · YOLO
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Blockchain:** Ethereum · Solidity · MetaMask · Remix IDE
+### Frontend
 
-**Computer Architecture:** RISC-V · MIPS Assembly · Digital Logic Design · Logisim
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-Basic-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Basic-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Tools:** Git · GitHub · MATLAB · n8n
+### Computer Architecture & Digital Systems
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
+![MIPS](https://img.shields.io/badge/MIPS%20Assembly-333333?style=for-the-badge)
+![Digital Logic Design](https://img.shields.io/badge/Digital%20Logic%20Design-007ACC?style=for-the-badge)
+![Computer Organization](https://img.shields.io/badge/Computer%20Organization%20%26%20Design-6A1B9A?style=for-the-badge)
+![Logisim](https://img.shields.io/badge/Logisim-Digital%20Design-orange?style=for-the-badge)
+
+### AI & Data
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+
+### Blockchain
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
+
+### Tools & Other Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
 
 ## Featured Projects
 
@@ -82,6 +108,8 @@ Citizen + Skills  →  Validation  →  Certificate
 
 **Tech:** Solidity · Ethereum · Remix IDE · MetaMask
 
+---
+
 ## Leadership: CIS Community
 
 **ZeroToShip | Summer Activity 2026** is a guided, project-based coding activity that helps students go from an idea to a completed, documented project. As Head of Team Coding & Innovation, I handled:
@@ -90,16 +118,28 @@ Citizen + Skills  →  Validation  →  Certificate
 - Submission and evaluation processes, final project evaluation
 - Certificate coordination and sponsor/participant communication
 
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usman-Rasheed-Siddiqui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usman-Rasheed-Siddiqui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top languages"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="49%"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usman-Rasheed-Siddiqui&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="32%"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="32%"/>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" width="32%"/>
 </p>
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/Usman-Rasheed-Siddiqui" alt="Contribution graph" width="100%"/>
+</p>
+
+---
 
 ## Currently Exploring
 
@@ -114,6 +154,8 @@ Object-Oriented Programming · Data Structures & Algorithms · Database Manageme
 I share subject-wise lab work, practicals and learning resources (C, Python, OOP, DSA, Cisco Packet Tracer networking, AI/ML, digital logic and computer architecture, Solidity) to help batch mates and juniors.
 
 > These resources are shared for learning and reference. Use them to understand the concepts and build your own solutions rather than copying.
+
+---
 
 ## Contact
 
